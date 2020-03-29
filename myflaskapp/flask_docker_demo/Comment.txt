@@ -1,0 +1,5 @@
+#I have used Flask to make the architecture of the project because i was having a rough time to docker-compose up the project 
+#I also used Mysql database in place of postgresql because of the server trouble shooting.
+# I was able to deploy the project in Docker server using Flask and python:alpine3.7
+# I also setup Token authenticationfor super users
+#Made a dashboard to contain infomation of users
